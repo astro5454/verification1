@@ -3,7 +3,7 @@
     "https": false,
     "http_port": 80,
     "discord": {
-        "token": "",
+        "token": "OTM2MjQ2Njk5MDk2MTU4Mjgw.YfKZrw.MaYuxlNLbvUqtpQpBcLpv4wZyn0",
         "guild-id": "",
         "verified-role-id": "",
         "_comment": "Below is for users that want to have a role removed upon verification, if you want this, set remove-role to true, and set your remove role ID.",
