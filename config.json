@@ -16,7 +16,7 @@
         "rules": "Type your rules here if rulesenabled is enabled, ensure to use \n for new lines"
     },
     "recaptcha": {
-        "secret-key": "",
-        "public-key": ""
+        "secret-key": "6Lejmj4eAAAAAHS6D1ItIMLJdXAoH2xOBFPzxNsr",
+        "public-key": "6Lejmj4eAAAAAFJGDzzZJ-YLW8jwbx9OcNRU_d05"
     }
 }
