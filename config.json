@@ -12,7 +12,7 @@
         "prefix": "!",
         "status": "Unverified users!",
         "rulesenabled": false,
-        "rules": "Type your rules here if rulesenabled is enabled, ensure to use \n for new lines"
+        "rules": 
     },
     "recaptcha": {
         "secret-key": "6Lejmj4eAAAAAHS6D1ItIMLJdXAoH2xOBFPzxNsr",
